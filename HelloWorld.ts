@@ -5,4 +5,4 @@ function addition(x, y) {
 }
 const result = addition(20, 20);
 //console.log(message);
-console.log(addition(20,20));
+console.log(addition(30,20));
