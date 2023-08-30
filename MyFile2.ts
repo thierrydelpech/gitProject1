@@ -3,4 +3,4 @@ function damage(CharacterToDammage:{life:number}, amount:number):number {
     return CharacterToDammage.life;
 }
 
-const resultLife = damage({life:50},12);
+const resultLife = damage({life:100},12);
