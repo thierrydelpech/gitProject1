@@ -5,6 +5,6 @@ function substraction(x:number, y:number):number {
     return x - y;
 }
 
-const resultsub = substraction(30, 20);
+const resultsub = substraction(50, 20);
 
 console.log(resultsub);
