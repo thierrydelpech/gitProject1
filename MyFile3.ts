@@ -5,7 +5,8 @@ export function afficheNom(nom: string, prenom?: string): void {
     }
     alert(texte);
 }
-afficheNom('Durand');
-afficheNom('Dupont', 'Marcel');
+const result1 = afficheNom('Durand');
+const result2 = afficheNom('Dupont', 'Marcel');
+console.log(result1);
 
 
