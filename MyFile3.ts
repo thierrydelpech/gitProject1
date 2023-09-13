@@ -11,6 +11,7 @@ class Car {
     constructor(public engine: string, public marque:string) { 
         this.Engine = engine; 
         this.Marque = marque;
+        this.Annee = annee;
     } 
 
     DisplayCarEngine() { 
